@@ -1,0 +1,39 @@
+C:\Users\Ahmet\Desktop\MVCKurs\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\Ahmet\Desktop\MVCKurs\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\Ahmet\Desktop\MVCKurs\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\Ahmet\Desktop\MVCKurs\Services\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Ahmet\Desktop\MVCKurs\Services\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Ahmet\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\Ahmet\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.pdb
+C:\Users\user\Desktop\MVCKurs\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\user\Desktop\MVCKurs\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\user\Desktop\MVCKurs\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\user\Desktop\MVCKurs\Services\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\user\Desktop\MVCKurs\Services\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\user\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\user\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\user\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\user\Desktop\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.pdb
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Services\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Services\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Services\obj\Debug\netcoreapp3.1\Services.pdb

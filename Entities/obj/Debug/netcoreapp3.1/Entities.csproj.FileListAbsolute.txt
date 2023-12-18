@@ -1,0 +1,30 @@
+C:\Users\Ahmet\Desktop\MVCKurs\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Ahmet\Desktop\MVCKurs\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Ahmet\Desktop\MVCKurs\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Ahmet\Desktop\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Desktop\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Ahmet\Desktop\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\user\Desktop\MVCKurs\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\user\Desktop\MVCKurs\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\user\Desktop\MVCKurs\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\user\Desktop\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\user\Desktop\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\user\Desktop\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\user\Desktop\Ahmet Selim Kaya\MVCKurs\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
